@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.header-container {
+  font-family: 'roboto';
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+  background-color: white;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.dark-bg {
+  background-color: #333333;
+}
+.list-items {
+  display: flex;
+  list-style-type: none;
+}
+.nav-link {
+  text-decoration: none;
+  margin-left: 30px;
+  color: black;
+  font-size: 18px;
+  font-weight: 500;
+}
+.website-logo {
+  height: 50px;
+}
+.theme {
+  height: 50px;
+}
+.theme-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.light-cls {
+  color: white;
+}

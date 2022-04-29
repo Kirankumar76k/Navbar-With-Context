@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.about-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.about-logo {
+  height: 100px;
+  width: 100px;
+}
+.about-dark-bg {
+  background-color: black;
+}
